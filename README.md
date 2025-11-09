@@ -1,3 +1,0 @@
-# AI PM
-
-Initialized repository.
